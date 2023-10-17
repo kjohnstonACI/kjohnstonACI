@@ -1,2 +1,2 @@
 # @kjohnstonACI
-## I’m am a Controls Engineer
+## I’m a Controls Engineer
